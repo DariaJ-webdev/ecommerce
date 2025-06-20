@@ -1,2 +1,2 @@
-# business_template
+# ecommerce
 Sample webpage for business with responsiveness
