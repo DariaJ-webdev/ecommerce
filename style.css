@@ -120,13 +120,13 @@ opacity: 0;
 transform: translate(100%);
 }
 
-.menu__open .menu__backdrop {
+.menu--open .menu__backdrop {
 visibility: visible;
 opacity: 1;
 transform: translate(0);
 }
 
-.menu__open {
+.menu--open {
 max-height: 100vh;
 overflow-y: hidden;
 }
