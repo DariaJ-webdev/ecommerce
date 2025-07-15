@@ -511,6 +511,10 @@ width: 100%;
 
 }
 
+.recent {
+        width: 50%; /* This will make two books fit per row on the latest books section (I hope) */
+    }
+
 /*SMALL PHONES, LARGE SMARTPHONES*/
 
 @media (max-width:550px) {
